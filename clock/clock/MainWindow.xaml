@@ -1,0 +1,15 @@
+﻿<Window x:Class="clock.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="768" Width="1024" Loaded="Window_Loaded">
+    <Grid Margin="0,0,-241,-256">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="112*"/>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="624*"/>
+            <ColumnDefinition Width="327*"/>
+        </Grid.ColumnDefinitions>
+        <Label Name="lblTime" Content="lblTime" HorizontalAlignment="Left" Height="450" Margin="10,128,0,0" VerticalAlignment="Top" FontSize="120" Width="982" Grid.ColumnSpan="4"/>
+
+    </Grid>
+</Window>

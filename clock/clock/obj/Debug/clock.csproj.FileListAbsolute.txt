@@ -1,0 +1,13 @@
+C:\Users\cec\Desktop\pan\clock\clock\bin\Debug\clock.exe.config
+C:\Users\cec\Desktop\pan\clock\clock\obj\Debug\clock.csprojResolveAssemblyReference.cache
+C:\Users\cec\Desktop\pan\clock\clock\obj\Debug\MainWindow.baml
+C:\Users\cec\Desktop\pan\clock\clock\obj\Debug\MainWindow.g.cs
+C:\Users\cec\Desktop\pan\clock\clock\obj\Debug\App.g.cs
+C:\Users\cec\Desktop\pan\clock\clock\obj\Debug\clock_MarkupCompile.cache
+C:\Users\cec\Desktop\pan\clock\clock\obj\Debug\clock.g.resources
+C:\Users\cec\Desktop\pan\clock\clock\obj\Debug\clock.Properties.Resources.resources
+C:\Users\cec\Desktop\pan\clock\clock\obj\Debug\clock.csproj.GenerateResource.Cache
+C:\Users\cec\Desktop\pan\clock\clock\bin\Debug\clock.exe
+C:\Users\cec\Desktop\pan\clock\clock\bin\Debug\clock.pdb
+C:\Users\cec\Desktop\pan\clock\clock\obj\Debug\clock.exe
+C:\Users\cec\Desktop\pan\clock\clock\obj\Debug\clock.pdb

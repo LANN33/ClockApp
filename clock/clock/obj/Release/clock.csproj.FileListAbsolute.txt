@@ -1,0 +1,12 @@
+C:\Users\cec\Desktop\pan\clock\clock\bin\Release\clock.exe.config
+C:\Users\cec\Desktop\pan\clock\clock\bin\Release\clock.exe
+C:\Users\cec\Desktop\pan\clock\clock\bin\Release\clock.pdb
+C:\Users\cec\Desktop\pan\clock\clock\obj\Release\MainWindow.baml
+C:\Users\cec\Desktop\pan\clock\clock\obj\Release\MainWindow.g.cs
+C:\Users\cec\Desktop\pan\clock\clock\obj\Release\App.g.cs
+C:\Users\cec\Desktop\pan\clock\clock\obj\Release\clock_MarkupCompile.cache
+C:\Users\cec\Desktop\pan\clock\clock\obj\Release\clock.g.resources
+C:\Users\cec\Desktop\pan\clock\clock\obj\Release\clock.Properties.Resources.resources
+C:\Users\cec\Desktop\pan\clock\clock\obj\Release\clock.csproj.GenerateResource.Cache
+C:\Users\cec\Desktop\pan\clock\clock\obj\Release\clock.exe
+C:\Users\cec\Desktop\pan\clock\clock\obj\Release\clock.pdb
